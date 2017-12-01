@@ -45,3 +45,7 @@ The final result should be similar to:
 
 And all together:
 ![topological_donuts_family](images/topological_donuts_family.jpg)
+
+And with coffee:
+![with_coffee](images/with_coffee.jpg)
+![topological_donuts_family](images/with_coffee_two.jpg)
