@@ -1,5 +1,10 @@
 # Topological Donut
-The aim of the project is to be able to design a system to fry or bake homeomorphisms of the torus. Specifically, the first target is to
+![animation](https://upload.wikimedia.org/wikipedia/commons/2/26/Mug_and_Torus_morph.gif)
+
+
+(From: https://en.wikipedia.org/wiki/Homeomorphism)
+
+The aim of the project is to be able to design a system to fry or bake [homeomorphisms](https://en.wikipedia.org/wiki/Homeomorphism) of the [torus](https://en.wikipedia.org/wiki/Torus), known by physicists as 'donuts'. Specifically, the first target is to
 be able to bake a cup of tea/coffee using donut ingredients in such a way one can drink the tea/coffee and simultaneously eat
 the donut.
 
